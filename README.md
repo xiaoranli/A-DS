@@ -5,4 +5,4 @@ Leetcode 题解.md
 数据结构相关
 -----
 
-* [1、字符串](https://github.com/xiaoranli/Leetcode---.md/edit/master/README.md)
+* [1、字符串](https://github.com/xiaoranli/leetcode13)
