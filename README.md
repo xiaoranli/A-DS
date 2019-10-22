@@ -6,3 +6,7 @@ Leetcode 题解.md
 -----
 
 * [1、字符串](https://github.com/xiaoranli/leetcode13)
+* [2、数组](https://github.com/xiaoranli/leetcode02)
+* [3、Map](https://github.com/xiaoranli/leetcode03)
+* [4、栈](https://github.com/xiaoranli/leetcode04)
+* [5、队列](https://github.com/xiaoranli/leetcode05)
